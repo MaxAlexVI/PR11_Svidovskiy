@@ -1,4 +1,4 @@
-<img width="1595" height="497" alt="image" src="https://github.com/user-attachments/assets/b86b835b-840c-45fa-8639-a30e9eed7421" /> # Практическое занятие 11. Проектирование REST API (CRUD для заметок). Разработка структуры
+# Практическое занятие 11. Проектирование REST API (CRUD для заметок). Разработка структуры
 # Свидовский М.А. ЭФМО-01-25
 
 ## Описание проекта
@@ -15,7 +15,6 @@
 <img width="1588" height="551" alt="image" src="https://github.com/user-attachments/assets/94922700-6c27-4e73-b583-9c6d54afd2f2" />
 
 ### GET /api/v1/notes - Вывод всех заметок
-
 <img width="1595" height="497" alt="image" src="https://github.com/user-attachments/assets/9df6dfa3-145e-42d8-8aea-440809a76e1a" />
 
 ### Get /api/v1/notes/{id} - Вывод конткретной заметки по id 
